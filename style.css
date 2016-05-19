@@ -1,0 +1,67 @@
+
+
+
+html {
+  background: url("background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h2 {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 3vw;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  color: rgba(21, 36, 64, 1.0);
+  position: relative;
+  float: right;
+  left: -6%;
+}
+
+.postcard {
+  height: 75%;
+  width: 75%;
+  border: 15px solid rgba(10, 10, 10, .4);
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 5px;
+  max-width: 900px;
+}
+
+
+.dzLogo {
+  height: 80px;
+  width: 140px;
+  height: 13%;
+  width: 13%;
+  float: left;
+}
+
+#facebookUpload {
+  float: right;
+  position: relative;
+  top: 10px;
+  height: 6%;
+  width:  6%;
+  left: -1%;
+}
+
+
+#twitterUpload {
+  float: right;
+  position:relative;
+  top: 10px;
+  height: 6%;
+  width: 6%;
+  left: -3%;
+}
+
+
+#zooElements {
+    max-width: 1000px;
+}
